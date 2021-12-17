@@ -5,7 +5,7 @@
 <a href="https://yanyan-permana.github.io" target="_blank">Portofolio</a> |
 <a href="https://www.youtube.com/channel/UCJWjpRT26Pv4-aV6NtKDYhg" target="_blank">Youtube</a> |
 <a href="https://wa.me/62895361152485" class="ml-3 text-secondary" target="_blank">WA</a>
-
+<hr>
 <ul>
   <li>Coffee</li>
   <li>Tea</li>
