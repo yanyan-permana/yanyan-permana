@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Yan Yan Permana!
 
-<h2>Junior Web Developer</h2>
+<h2>Web Developer</h2>
 
 <a href="https://yanyan-permana.github.io" target="_blank">Portofolio</a> |
 <a href="https://www.youtube.com/channel/UCJWjpRT26Pv4-aV6NtKDYhg" target="_blank">Youtube</a> |
